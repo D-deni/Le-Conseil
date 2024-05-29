@@ -1,0 +1,15 @@
+.swiper-custom-bullet {
+  height: 12px;
+  width: 12px;
+  background-color: white;
+  opacity: .3;
+  display: block;
+  border-radius: 100%;
+}
+
+.swiper-custom-bullet.swiper-custom-bullet-active {
+  height: 12px;
+  width: 12px;
+  opacity: 1;
+  background-color: #BA9E74;
+}

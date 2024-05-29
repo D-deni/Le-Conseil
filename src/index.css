@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "TimesNewRomanRegular";
+  src: url("/src/assets/fonts/TimesNewRoman-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TimesNewRomanBold";
+  src: url("/src/assets/fonts/TimesNewRoman-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "EvolventaRegular";
+  src: url("/src/assets/fonts/Evolventa-Regular.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "EvolventaBold";
+  src: url("/src/assets/fonts/Evolventa-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}

@@ -1,0 +1,17 @@
+.blockStyle-enter {
+  opacity: 0;
+}
+.blockStyle-enter-active {
+  opacity: 1;
+  transition: opacity 200ms;
+
+}
+.blockStyle-exit {
+  opacity: 1;
+
+}
+.blockStyle-exit-active {
+  opacity: 0;
+  transition: opacity 200ms;
+
+}
